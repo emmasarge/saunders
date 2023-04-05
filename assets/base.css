@@ -5,8 +5,8 @@
 }
 
 @font-face {
-    font-family: "Gerbera";
-    src: url({{ "Gerbera-Light.otf " | asset_url }}) format("opentype");
+  font-family: 'Gerbera';
+  src: url('{{ "Gerbera-Light.otf" | asset_url }}') format('opentype'),
 }
 body {
       font-family: "Gerbera"!important;
