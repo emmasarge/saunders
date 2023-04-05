@@ -1,16 +1,17 @@
 /* Color custom properties */
+
+@font-face {
+font-family: "Gerbera";
+src: url("https://cdn.shopify.com/s/files/1/0061/8459/9655/files/Gerbera-Light.otf?v=1680728566") format("otf"),
+
+font-display: swap
+}
 @font-face {
     font-family: "Rosindale";
     src: url({{ "Roslindale-DeckNarrowRegular.woff2 " | asset_url }}) format("woff");
 }
 
-@font-face {
-  font-family: 'Gerbera';
-  font-display: swap;
-url("https://cdn.shopify.com/s/files/1/0061/8459/9655/files/Gerbera-Light.otf?v=1680728566") format("opentype");
-  
 
-}
 body {
       font-family: "Gerbera"!important;
 
