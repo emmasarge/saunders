@@ -1,7 +1,12 @@
 /* Color custom properties */
 @font-face {
     font-family: "Rosindale";
-    src: url({{ "Roslindale-TextRegular.woff2 " | asset_url }}) format("woff");
+    src: url({{ "Roslindale-DeckNarrowRegular.woff2 " | asset_url }}) format("woff");
+}
+
+@font-face {
+    font-family: "Gerbera";
+    src: url({{ "Gerbera-Light.otf " | asset_url }}) format("otf");
 }
 body {
       font-family: "Rosindale"!important;
