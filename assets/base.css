@@ -3,6 +3,10 @@
     font-family: "Rosindale";
     src: url({{ "Roslindale-TextRegular.woff2 " | asset_url }}) format("woff");
 }
+body {
+      font-family: "Rosindale"!important;
+
+}
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
