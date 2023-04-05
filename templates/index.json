@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "The Spirit of Indulgence",
+            "heading": "Browse our latest products",
             "heading_size": "h0"
           }
         },
@@ -27,7 +27,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/B6DDD3F0-E38D-49B1-9AF1-0571847B9F71.heic",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
