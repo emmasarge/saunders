@@ -18,7 +18,7 @@ body {
 }
 h2, p, a {      font-family: "Gerbera", sans-serif!important;}
 
-.header__heading-link span h2{
+.header__heading-link .h2{
    font-family: "Gerbera", sans-serif!important;}
 }
 :root,
