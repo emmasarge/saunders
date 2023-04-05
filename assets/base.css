@@ -1,5 +1,8 @@
 /* Color custom properties */
-
+@font-face {
+    font-family: "Rosindale";
+    src: url({{ "Roslindale-TextRegular.woff2 " | asset_url }}) format("woff");
+}
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
