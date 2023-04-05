@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: 'Gerbera';
-  src: url('{{ "Gerbera-Light.otf" | asset_url }}') format('opentype'),
+  src: url("https://cdn.shopify.com/s/files/1/0061/8459/9655/files/Roslindale-DeckNarrowRegular.woff2?v=1680728569") format('opentype'),
 }
 body {
       font-family: "Gerbera"!important;
