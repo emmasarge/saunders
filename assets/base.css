@@ -9,7 +9,7 @@
     src: url({{ "Gerbera-Light.otf " | asset_url }}) format("otf");
 }
 body {
-      font-family: "Rosindale"!important;
+      font-family: "Gerbera"!important;
 
 }
 :root,
