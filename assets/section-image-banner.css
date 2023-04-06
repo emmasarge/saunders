@@ -319,7 +319,7 @@
 
 @media screen and (min-width: 750px) {
   .banner--desktop-transparent .banner__box {
-    background: transparent;
+    background: transparent!important;
     --color-foreground: 255, 255, 255;
     --color-button: 255, 255, 255;
     --color-button-text: 0, 0, 0;
