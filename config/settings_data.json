@@ -2,8 +2,8 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/spoi-logo.svg",
     "logo_width": 120,
-    "colors_solid_button_labels": "#2b2a2a",
-    "colors_accent_1": "#f5c0b5",
+    "colors_solid_button_labels": "#fafafa",
+    "colors_accent_1": "#fb5717",
     "gradient_accent_1": "",
     "colors_accent_2": "#494949",
     "gradient_accent_2": "linear-gradient(228deg, rgba(201, 197, 184, 0.13) 32%, rgba(250, 250, 250, 1) 71%)",
