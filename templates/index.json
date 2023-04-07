@@ -27,7 +27,7 @@
         "button"
       ],
       "custom_css": [
-        "h2 {color: #3a3a3a;}",
+        "h2 {color: black;}",
         ".banner__buttons a {color: #3a3a3a; border: #3a3a3a 2px solid;}",
         "a .button--secondary {border: #3a3a3a 2px solid;}"
       ],
@@ -104,7 +104,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_ratio": "portrait",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -116,13 +116,50 @@
         "padding_bottom": 36
       }
     },
+    "0254291b-6166-4bbc-acc7-24d8e86ea89c": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14607664971879__0254291b-6166-4bbc-acc7-24d8e86ea89c-1680877087dcfecab1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--14607664971879__0254291b-6166-4bbc-acc7-24d8e86ea89c-1680877087dcfecab1-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--14607664971879__0254291b-6166-4bbc-acc7-24d8e86ea89c-1680877087dcfecab1-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14607664971879__0254291b-6166-4bbc-acc7-24d8e86ea89c-1680877087dcfecab1-0",
+        "template--14607664971879__0254291b-6166-4bbc-acc7-24d8e86ea89c-1680877087dcfecab1-1",
+        "template--14607664971879__0254291b-6166-4bbc-acc7-24d8e86ea89c-1680877087dcfecab1-2"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 52
+      }
+    },
     "d29516a6-daee-4990-b3a3-ca203a0795a5": {
       "type": "collage",
       "blocks": {
         "template--14607664971879__d29516a6-daee-4990-b3a3-ca203a0795a5-168087673277a44725-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9348.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_7969_2.jpg"
           }
         },
         "template--14607664971879__d29516a6-daee-4990-b3a3-ca203a0795a5-168087673277a44725-1": {
@@ -150,7 +187,7 @@
         "desktop_layout": "left",
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -160,6 +197,7 @@
     "image_banner",
     "265eea25-25cb-443f-b4ae-27612ef875d8",
     "featured_collection",
+    "0254291b-6166-4bbc-acc7-24d8e86ea89c",
     "d29516a6-daee-4990-b3a3-ca203a0795a5"
   ]
 }
