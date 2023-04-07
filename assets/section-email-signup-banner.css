@@ -2,7 +2,9 @@
 .email-signup-banner .newsletter-form__field-wrapper {
   display: inline-block;
 }
-
+.email-signup-banner .newsletter-form input::placeholder {
+  font-family: "Vogue",  sans-serif!important;
+}
 @media only screen and (min-width: 750px) {
   .email-signup-banner:not(.banner--desktop-transparent) .email-signup-banner__box {
     width: 100%;

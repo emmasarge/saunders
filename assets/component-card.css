@@ -66,7 +66,7 @@
   /* Fix for Safari border bug on hover */
   z-index: 0;
   border-radius: calc(var(--border-radius) - var(--border-width) - var(--image-padding));
-  border: 4px solid #3a3a3a!important;
+  border: 4px solid rgb(34, 28, 17)!important;
 }
 
 .card--card .card__inner .card__media {
