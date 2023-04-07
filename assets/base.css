@@ -3,8 +3,9 @@
 @font-face {
   font-family: "Rosindale";
   src:
-  url("https://cdn.shopify.com/s/files/1/0061/8459/9655/files/Roslindale-DisplayCondensedLight.woff2?v=1680728571") format("woff2"),
   url("https://cdn.shopify.com/s/files/1/0061/8459/9655/files/Roslindale-DeckNarrowRegular.woff2?v=1680728569") format("woff2"),
+
+  url("https://cdn.shopify.com/s/files/1/0061/8459/9655/files/Roslindale-DisplayCondensedLight.woff2?v=1680728571") format("woff2"),
   url("https://cdn.shopify.com/s/files/1/0061/8459/9655/files/Roslindale-DisplayCondensedLightItalic.woff2?v=1680728575") format("woff2");
 
   font-display: swap
