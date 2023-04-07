@@ -28,8 +28,8 @@
       ],
       "custom_css": [
         "h2 {color: #3a3a3a;}",
-        ".banner__buttons a {color: #3a3a3a; border: #3a3a3a 2 px solid;}",
-        ".button--secondary{border: #3a3a3a 2 px solid;}"
+        ".banner__buttons a {color: #3a3a3a; border: #3a3a3a 2px solid;}",
+        "a .button--secondary {border: #3a3a3a 2px solid;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Group_99.png",
