@@ -45,6 +45,46 @@
         "show_text_below": false
       }
     },
+    "265eea25-25cb-443f-b4ae-27612ef875d8": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ready-to-ship"
+          }
+        },
+        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "made-to-order-1"
+          }
+        },
+        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-drop"
+          }
+        }
+      },
+      "block_order": [
+        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-0",
+        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-1",
+        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "accent-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -75,6 +115,7 @@
   },
   "order": [
     "image_banner",
+    "265eea25-25cb-443f-b4ae-27612ef875d8",
     "featured_collection"
   ]
 }
