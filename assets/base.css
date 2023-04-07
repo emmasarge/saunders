@@ -115,7 +115,7 @@ text-transform: lowercase;
 }
 span.header__active-menu-item {
   text-decoration: none!important;
-  background-color: #ffef00;
+  background-color: #F5C0B5;
 }
 .announcement-bar__message {
   font-family: "Vogue", sans-serif !important;
@@ -257,7 +257,7 @@ letter-spacing: 1pt!important;
 .price {
   font-family: "Vogue", sans-serif !important;
   font-size: 10pt!important;
-  background: #ffef00;
+  background: #F5C0B5;
 
 }
  h2.h2{
@@ -315,7 +315,7 @@ font-family: "Vogue", sans-serif !important;
 
 }
 .product-form__input input[type='radio']:checked + label {
-  background-color: #ffef00!important;
+  background-color: #F5C0B5!important;
   color:black;
 }
 .product__description {
