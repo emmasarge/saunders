@@ -17,6 +17,10 @@
       "block_order": [
         "d961ac13-869d-411a-87e8-adf478634f5b"
       ],
+      "custom_css": [
+        ".footer-block--newsletter {align-items: start !important;}",
+        ".footer__localization {justify-content:start!important;}"
+      ],
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": true,
