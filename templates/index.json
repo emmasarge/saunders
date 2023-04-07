@@ -73,8 +73,8 @@
         "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-2"
       ],
       "custom_css": [
-        "h2 {color: black;}",
-        "a {color: black;}"
+        "h2 {color: white;}",
+        "a {color: white;}"
       ],
       "settings": {
         "title": "Collections",
