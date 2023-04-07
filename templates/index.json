@@ -26,14 +26,17 @@
         "heading",
         "button"
       ],
+      "custom_css": [
+        "h2 {color: #3a3a3a;}"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/B6DDD3F0-E38D-49B1-9AF1-0571847B9F71.heic",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/Group_99.png",
+        "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
