@@ -358,6 +358,13 @@ font-family: "Vogue", sans-serif !important;
 .collection__view-all .button:hover {
   font-style:italic ;
 }
+
+@media screen and (max-width: 450px) {
+
+  h1.collection-hero__title {
+    font-size: 28pt!important;
+
+}
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
