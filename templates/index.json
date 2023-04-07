@@ -115,11 +115,51 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "d29516a6-daee-4990-b3a3-ca203a0795a5": {
+      "type": "collage",
+      "blocks": {
+        "template--14607664971879__d29516a6-daee-4990-b3a3-ca203a0795a5-168087673277a44725-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9348.jpg"
+          }
+        },
+        "template--14607664971879__d29516a6-daee-4990-b3a3-ca203a0795a5-168087673277a44725-1": {
+          "type": "product",
+          "settings": {
+            "product": "dont-fuck-with-mama",
+            "second_image": false
+          }
+        },
+        "template--14607664971879__d29516a6-daee-4990-b3a3-ca203a0795a5-168087673277a44725-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "necklaces-2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14607664971879__d29516a6-daee-4990-b3a3-ca203a0795a5-168087673277a44725-0",
+        "template--14607664971879__d29516a6-daee-4990-b3a3-ca203a0795a5-168087673277a44725-1",
+        "template--14607664971879__d29516a6-daee-4990-b3a3-ca203a0795a5-168087673277a44725-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "image_banner",
     "265eea25-25cb-443f-b4ae-27612ef875d8",
-    "featured_collection"
+    "featured_collection",
+    "d29516a6-daee-4990-b3a3-ca203a0795a5"
   ]
 }
