@@ -6,15 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Aries Season is<\/strong> <em>here<\/em>",
+            "heading": "<em>Shine Wherever You Go:        Embrace Leo Season.<\/em>",
             "heading_size": "h0"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop ARIES",
-            "button_link_1": "shopify:\/\/collections\/aries-szn-drop",
+            "button_label_1": "Shop our faves",
+            "button_link_1": "shopify:\/\/collections",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -146,7 +146,7 @@
         "template--14607664971879__0254291b-6166-4bbc-acc7-24d8e86ea89c-1680877087dcfecab1-2"
       ],
       "custom_css": [
-        "h2 {color:white;}"
+        "h2 {color: white;}"
       ],
       "settings": {
         "color_scheme": "accent-1",
