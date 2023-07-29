@@ -6,16 +6,16 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Shine Wherever You Go:        Embrace Leo Season.<\/em>",
+            "heading": "<em><strong>INDULGE BABE, It's Leo SZN<\/strong><\/em>",
             "heading_size": "h0"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop our faves",
-            "button_link_1": "shopify:\/\/collections\/new-drop",
-            "button_style_secondary_1": true,
+            "button_label_1": "Gold & Bold for Leo SZN",
+            "button_link_1": "shopify:\/\/collections\/fine-jewelry",
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
