@@ -8,10 +8,10 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Shop bold new looks for Leo SZN",
+            "text": "Don't let the end of summer get you down! shop sale",
             "text_alignment": "center",
             "color_scheme": "accent-2",
-            "link": ""
+            "link": "shopify:\/\/collections\/last-chance-sale-1"
           }
         }
       },
