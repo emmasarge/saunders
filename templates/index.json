@@ -50,18 +50,6 @@
     "265eea25-25cb-443f-b4ae-27612ef875d8": {
       "type": "collection-list",
       "blocks": {
-        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "last-chance-sale-1"
-          }
-        },
-        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ready-to-ship"
-          }
-        },
         "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-1": {
           "type": "featured_collection",
           "settings": {
@@ -76,8 +64,6 @@
         }
       },
       "block_order": [
-        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-2",
-        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-0",
         "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-1",
         "29ef9ea1-8df3-41c7-a0fa-22b8f93d1ca6"
       ],
