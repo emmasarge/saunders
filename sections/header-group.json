@@ -8,10 +8,10 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Don't let the end of summer get you down! shop sale",
+            "text": "And don’t miss out on 15% off your first order and a text or email as soon as the site is live✨",
             "text_alignment": "center",
             "color_scheme": "accent-2",
-            "link": "shopify:\/\/collections\/last-chance-sale-1"
+            "link": ""
           }
         }
       },
