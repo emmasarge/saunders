@@ -13,10 +13,10 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Gold & Bold",
+            "button_label_1": "SHOP FINE",
             "button_link_1": "shopify:\/\/collections\/fine-jewelry",
             "button_style_secondary_1": true,
-            "button_label_2": "SALE",
+            "button_label_2": "SHOP SILVER",
             "button_link_2": "shopify:\/\/collections\/all",
             "button_style_secondary_2": true
           }
@@ -50,22 +50,22 @@
     "265eea25-25cb-443f-b4ae-27612ef875d8": {
       "type": "collection-list",
       "blocks": {
-        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "made-to-order-1"
-          }
-        },
         "29ef9ea1-8df3-41c7-a0fa-22b8f93d1ca6": {
           "type": "featured_collection",
           "settings": {
             "collection": "fine-jewelry"
           }
+        },
+        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "made-to-order-1"
+          }
         }
       },
       "block_order": [
-        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-1",
-        "29ef9ea1-8df3-41c7-a0fa-22b8f93d1ca6"
+        "29ef9ea1-8df3-41c7-a0fa-22b8f93d1ca6",
+        "template--14607664971879__265eea25-25cb-443f-b4ae-27612ef875d8-16808754796ff09184-1"
       ],
       "custom_css": [
         "h2 {color: white;}",
