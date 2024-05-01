@@ -13,10 +13,10 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "SHOP FINE",
+            "button_label_1": "FINE JEWELRY",
             "button_link_1": "shopify:\/\/collections\/fine-jewelry",
             "button_style_secondary_1": true,
-            "button_label_2": "SHOP SILVER",
+            "button_label_2": "SILVER JEWELRY",
             "button_link_2": "shopify:\/\/collections\/all",
             "button_style_secondary_2": true
           }
